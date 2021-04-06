@@ -19,6 +19,7 @@
 <h3>Deployment</h3>
 <p>You can find us on: https://begoodi.be/CMS-Restaurant/ </p>
 <p>Possible connection with the login 'Le Chef' and the password 'becode'.</p>
+<p>The repo of our team : <a href="https://github.com/Ingridfe1982/CMS-Restaurant">Github Ingrid</a>
 
 <h3>Plugins</h3>
 <ul>
